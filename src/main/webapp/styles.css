@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue;
+}
+.headline{
+  color: red;
+}
+.chapter{
+  color: rgb(150, 2,16);
+}
+.images{
+  text-align: center;
+}
